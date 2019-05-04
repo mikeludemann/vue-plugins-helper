@@ -1,0 +1,23 @@
+{
+  "name": "vue-plugins-helper",
+  "version": "1.0.0",
+  "description": "Vue Plugin Helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikeludemann/vue-plugins-helper.git"
+  },
+  "keywords": [
+    "Vue",
+    "Plugins"
+  ],
+  "author": "Mike Ludemann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikeludemann/vue-plugins-helper/issues"
+  },
+  "homepage": "https://github.com/mikeludemann/vue-plugins-helper#readme"
+}
